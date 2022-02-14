@@ -1,0 +1,5 @@
+# To ignore pyc files from committing
+*.pyc
+
+# To ignore csv files from commiting
+*.csv
